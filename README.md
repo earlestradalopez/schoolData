@@ -3,6 +3,8 @@
 * Install python 3.7 or Higher
 * Install python pip - https://www.liquidweb.com/kb/install-pip-windows/
 * pip install mysql-connector-python
+## Files Needed
+* Download files available in this site: config.ini, schoolData.py
 ## Setup Configuration
 * Input the correct user directory in config.ini file under [DEFAULT] -> directory
 ![user path](https://github.com/earlestradalopez/schoolData/blob/main/images/userdir.png)
