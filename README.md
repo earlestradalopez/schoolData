@@ -1,7 +1,10 @@
 ## ReadMe
 ## Requirements
-* Install python 3.7 or Higher
+### Applications:
+* Install python 3.8 or Higher
 * Install python pip - https://www.liquidweb.com/kb/install-pip-windows/
+* MySQL server
+### Python packages:
 * pip install mysql-connector-python
 ## Files Needed
 * Download files available in this site: config.ini, schoolData.py
